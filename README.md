@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/badge/Free-TooI-blueviolet">
-<img src="https://img.shields.io/badge/SIZE-199%20KB-brightgreen"><br>
+<img src="https://img.shields.io/badge/SIZE-0.%20KB-brightgreen"><br>
 REMOVE Indext spaces
 
 # Indext_remover
