@@ -1,3 +1,7 @@
+<img src="https://img.shields.io/badge/TOOLS-SENSEI-blueviolet">
+<img src="https://img.shields.io/badge/SIZE-199%20KB-brightgreen"><br>
+REMOVE Indext spaces
+
 # Indext_remover
 This tool will automatically remove all of indext spaces in .py or any files
 
