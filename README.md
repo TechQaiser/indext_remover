@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Free-TooI-blueviolet"><img src="https://img.shields.io/badge/SIZE-0.%20KB-brightgreen"><br>https://img.shields.io/badge/DONT%20FORGET-TO%20GIVE%20CREDIT-brightgreen
+<img src="https://img.shields.io/badge/Free-TooI-blueviolet"> <img src="https://img.shields.io/badge/SIZE-0.%20KB-brightgreen"><br><img src="https://img.shields.io/badge/DONT%20FORGET-TO%20GIVE%20CREDIT-brightgreen">
 REMOVE Indext spaces
 
 # Indext_remover
